@@ -4,3 +4,6 @@ function helperBaru(){
 }
 
 cons featureA= "tes"
+
+
+const fiturBAruSiA = "tes"
