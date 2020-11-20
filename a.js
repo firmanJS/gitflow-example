@@ -4,3 +4,9 @@ function helperBaru(){
 }
 
 cons featureA= "tes"
+
+
+// fungsi imort
+const funcImport = () => {
+  return "a"
+}
