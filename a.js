@@ -10,3 +10,5 @@ cons featureA= "tes"
 const funcImport = () => {
   return "a"
 }
+
+const fiturBAruSiA = "tes"
